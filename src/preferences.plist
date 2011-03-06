@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Path</key>
+	<string>mymovie.mov</string>
+	<key>Stretch to fullscreen</key>
+	<true/>
+	<key>Start in front</key>
+	<true/>
+	<key>Autoplay</key>
+	<true/>
+	<key>Loop</key>
+	<true/>
+</dict>
+</plist>
